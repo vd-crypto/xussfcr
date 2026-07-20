@@ -1,0 +1,6 @@
+卿钰视觉设计作品集｜HTML 静态版
+
+1. 请保留 index.html 与 assets 文件夹的相对位置。
+2. 直接双击 index.html，即可在浏览器中查看。
+3. 部署到 GitHub Pages 时，上传本文件夹内的全部内容即可。
+4. 请勿只单独上传 index.html，否则作品图片无法显示。
